@@ -1,2 +1,3 @@
-# my_Euler
-My Euler problem solutions (https://projecteuler.net/index.php?section=problems)
+# my_Euler problem solutions while learning Python
+
+https://projecteuler.net/index.php?section=problems
